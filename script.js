@@ -29,15 +29,35 @@
 
 // დავალება 3
 
+// let user = {
+//     firstname: 'giorgi',
+//     lastname: 'saakadze',
+//     age: 32,
+//     isloggedin: true
+//   }
 
-
-
+//   function print (user) {
+//     if (user.isloggedin){
+//         return user.firstname + " " + user.lastname;
+//     } return false
+//   }
+//  let result = print (user);
+//   console.log(result);
+  
 
 // დავალება 4
 
+// function max (...numbers) {
+//     let  maxValue= 0;
+//     for (let item of numbers) {
+//         if (item > maxValue)
+//          maxValue = item;
+//     }
+//     return maxValue;
+// }
 
-
-
+// let result = max(7, 26, 19, 28, 17, 8, 6, 4, 27, 33, 4)
+// console.log(result);
 
 // დავალება 5 
 // let array = [1,2,4,10,34,5,7,87];
